@@ -4,7 +4,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: Doctorado en Física
-    institution: Universidad de Buenos Aires / Universidad Torcuato Di Tella
+    institution: Universidad Torcuato Di Tella / Universidad de Buenos Aires
     year: 2024
   - course: Ingeniería Electrónica
     institution: Universidad de Buenos Aires

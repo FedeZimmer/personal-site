@@ -32,7 +32,7 @@ item:
   url: ""
 - date_end: "2020-03-01"
   date_start: "2020-02-01"
-  description: "Docente a cargo de la práctica de la materia Neurociencia y Toma de decisiones del Master in Management + Analytics."
+  description: "Docente a cargo de la práctica de la materia Neurociencia y Toma de Decisiones del Master in Management + Analytics."
   organization: Universidad Torcuato Di Tella
   organization_url: https://www.utdt.edu/
   title: Docente auxiliar
