@@ -40,8 +40,8 @@ superuser: true
 title: Federico Zimmerman
 ---
 
-Estoy realizando un doctorado en conjunto entre la Universidad Torcuato Di Tella y la Universidad de Buenos Aire. Estudio los mecanismos psicológicos detrás de la creciente polarización política y realizo experimentos comportamentales y modelos computacionales para entender el rol de los extremismos en el panorama actual.
+Estoy realizando un doctorado en conjunto entre la Universidad Torcuato Di Tella y la Universidad de Buenos Aires. Estudio los mecanismos psicológicos detrás de la creciente polarización política y realizo experimentos comportamentales y modelos computacionales para entender el rol de los extremismos en el panorama actual.
 
 En mi tesis de grado, realicé un experimento gamificado para estudiar el desempeño de los participantes al realizar operaciones aritméticas mentalmente. Al desarrollar mi propia aplicación móvil, pude recopilar datos longitudinales en forma rápida, económica y escalable. He presentado los resultados de este proyecto en una charla TEDx.
 
-También soy profesor en la Universidad Torcuato Di Tella.
+Soy profesor en la Universidad Torcuato Di Tella.
