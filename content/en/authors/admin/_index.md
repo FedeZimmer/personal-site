@@ -44,5 +44,4 @@ Federico is a PhD candidate at Universidad Torcuato Di Tella and Universidad de 
 
 In his BSc thesis, Federico performed a gamified mobile experiment to study the performance of participants doing mental arithmetic operations. By developing a mobile app, he was able to gather longitudinal data in a fast, cheap, and scalable way. He has presented this project’s results at TEDx.
 
-Federico is also a part-time lecturer at Universidad Torcuato 
-ella.
+Federico is also a part-time lecturer at Universidad Torcuato Di Tella.
