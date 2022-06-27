@@ -12,10 +12,10 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Ciencias Sociales computacionales
-- Modelos computacionales
-- Psicología política
-- Polarización política
+- Ciencias Sociales Computacionales
+- Modelos Computacionales
+- Psicología Política
+- Polarización Política
 organizations:
 - name: Universidad Torcuato Di Tella
   url: https://www.utdt.edu/

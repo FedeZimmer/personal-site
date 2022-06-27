@@ -6,7 +6,7 @@ authors:
 - Dan Ariely
 - Mariano Sigman
 - Joaquin Navajas
-date: "2021-02-09T00:00:00Z"
+date: "2022-02-09T00:00:00Z"
 doi: "10.1126/sciadv.abk1909"
 featured: false
 tags:
