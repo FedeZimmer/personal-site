@@ -5,7 +5,7 @@ education:
   courses:
   - course: Doctorado en Física
     institution: Universidad Torcuato Di Tella / Universidad de Buenos Aires
-    year: 2024
+    year: 2023
   - course: Ingeniería Electrónica
     institution: Universidad de Buenos Aires
     year: 2016

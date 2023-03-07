@@ -3,9 +3,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Social Psychology 
+  - course: PhD in Physics
     institution: Universidad Torcuato Di Tella / Universidad de Buenos Aires
-    year: 2024
+    year: 2023
   - course: BSc in Electronic Engineering
     institution: Universidad de Buenos Aires
     year: 2016
