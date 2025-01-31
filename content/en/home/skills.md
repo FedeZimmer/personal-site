@@ -18,19 +18,19 @@ subtitle:
 feature:
 
 - name: Statistical Analysis
-  description: Matlab, Python, R
+  description: R, Python, Matlab
   icon: chart-line
   icon_pack: fas
 - name: Mathematical Modeling
-  description: Matlab, Python, R
+  description: R, Python, Matlab
   icon: square-root-alt
   icon_pack: fas
 - name: Online survey experiments
-  description: SurveyMonkey, PsyToolkit, Prolific, CloudResearch
+  description: Qualtrics, SurveyMonkey, PsyToolkit, Prolific, CloudResearch
   icon: laptop-house
   icon_pack: fas
 - name: Online custom experiments
-  description: Mobile software development, Twitter field experiments
+  description: Mobile software development
   icon: laptop-code
   icon_pack: fas
 - name: Teaching

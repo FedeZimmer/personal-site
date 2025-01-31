@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
+- date_end: "2023-08-01"
   date_start: "2020-03-01"
   description: "Docente a cargo de la materia de grado Neurociencia y Psicología Experimental."
   organization: Universidad Torcuato Di Tella

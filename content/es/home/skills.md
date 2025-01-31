@@ -18,19 +18,19 @@ subtitle:
 feature:
 
 - name: Análisis de datos
-  description: Matlab, Python, R
+  description: R, Python, Matlab
   icon: chart-line
   icon_pack: fas
 - name: Modelado matemático
-  description: Matlab, Python, R
+  description: R, Python, Matlab
   icon: square-root-alt
   icon_pack: fas
 - name: Implementación de experimentos online
-  description: SurveyMonkey, PsyToolkit, Prolific, CloudResearch
+  description: Qualtrics, SurveyMonkey, PsyToolkit, Prolific, CloudResearch
   icon: laptop-house
   icon_pack: fas
 - name: Desarrollo de experimentos online
-  description: Desarrollador mobile, experimentos de campo en Twitter
+  description: Desarrollador mobile
   icon: laptop-code
   icon_pack: fas
 - name: Docencia

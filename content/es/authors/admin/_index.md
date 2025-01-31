@@ -14,14 +14,12 @@ highlight_name: true
 interests:
 - Ciencias Sociales Computacionales
 - Modelos Computacionales
-- Psicología Política
+- Comportamiento Colectivo
 - Polarización Política
 organizations:
-- name: Universidad Torcuato Di Tella
-  url: https://www.utdt.edu/
-- name: Universidad de Buenos Aires
-  url: https://www.uba.ar/
-role: Estudiante de doctorado
+- name: Harvard Business School
+  url: https://www.hbs.edu/
+role: Becario Postdoctoral
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,8 +38,6 @@ superuser: true
 title: Federico Zimmerman
 ---
 
-Estoy realizando un doctorado en conjunto entre la Universidad Torcuato Di Tella y la Universidad de Buenos Aires. Estudio los mecanismos psicológicos detrás de la creciente polarización política y realizo experimentos comportamentales y modelos computacionales para entender el rol de los extremismos en el panorama actual.
+Soy becario postdoctoral en el laboratorio Digital Emotions Lab del instituto Digital, Data, and Design en la Escuela de Negocios de Harvard.
 
-En mi tesis de grado, realicé un experimento gamificado para estudiar el desempeño de los participantes al realizar operaciones aritméticas mentalmente. Al desarrollar mi propia aplicación móvil, pude recopilar datos longitudinales en forma rápida, económica y escalable. He presentado los resultados de este proyecto en una charla TEDx.
-
-Soy profesor en la Universidad Torcuato Di Tella.
+Soy un científico social computacional interesado en los procesos psicológicos asociados con las interacciones sociales. Durante mi doctorado en la Universidad de Buenos Aires en Argentina, trabajé con métodos experimentales y computacionales para investigar los mecanismos psicológicos subyacentes detrás de la polarización afectiva y la segregación política.
